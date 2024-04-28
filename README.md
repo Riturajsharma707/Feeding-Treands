@@ -4,5 +4,5 @@
 
 <p>1.  Run command : git clone https://github.com/Riturajsharma707/Feeding-Treands</p>
 <p>2. cd Feeding-Treands</p>
-<p>3. npm i</p>
+<p>3. npm install</p>
 <p>4. npm run dev</p>
