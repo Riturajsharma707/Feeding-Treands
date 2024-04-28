@@ -1,4 +1,4 @@
-<h2>Here I build as per given assignment from Feeding Treands</h2>
+<h2>Here I built as per given assignment from Feeding Treands</h2>
 
 <h3>Instruction to Run: </h3>
 
